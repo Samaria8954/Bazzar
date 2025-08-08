@@ -1,0 +1,103 @@
+@media (min-width:320px) and (max-width:575.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 6vw;
+    }
+
+    .hero-content {
+        justify-content: start;
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width:320px) and (max-width:479.92px) {
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 3.8vw;
+        margin-bottom: 15px;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+   .hero-2 {
+    display: flex;
+    background-color: #30D696;
+    border: 1px solid #30D696;
+    border-radius: 30px;
+    font-family: hellix;
+    padding: 2px 0px 1px 4px;
+}
+
+
+    .hero-button {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .slide {
+        width: 33vw;
+    }
+}
+
+
+@media (min-width:480px) and (max-width:575.92px) {
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 3.3vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+    }
+
+
+    .hero-button {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .slide {
+        width: 30vw;
+    }
+
+}

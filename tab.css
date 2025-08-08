@@ -1,0 +1,59 @@
+@media (min-width:768px) and (max-width:991.92px){
+    .heroSection h1 {
+    font-family: Myhellix;
+    font-size: 5vw;
+}
+.heroSection h6 {
+    font-family: hellix;
+    font-weight: 500;
+    font-size: 2vw;
+}
+.intro h6 {
+    font-family: hellix;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: justify;
+    text-align-last: center;
+}
+.hero-content h6 {
+    font-size: 12px;
+    font-weight: bold;
+}
+.slide {
+      width: 21vw;
+    }
+
+}
+
+
+
+@media (min-width:576px) and (max-width:767.92px){
+    .heroSection h1 {
+    font-family: Myhellix;
+    font-size: 5vw;
+}
+.heroSection h6 {
+    font-family: hellix;
+    font-weight: 500;
+    font-size: 2.5vw;
+}
+.intro h6 {
+    font-family: hellix;
+    font-weight: 500;
+    font-size: 14px;
+     text-align: justify;
+    text-align-last: center;
+}
+.hero-content h6 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.hero-content {
+        justify-content: start;
+        text-align: center;
+    }
+
+    .slide {
+      width: 24vw;
+    }
+}

@@ -1,0 +1,136 @@
+@media (min-width:992px) and (max-width:1200.92px) {
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -37%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+
+
+@media (min-width:768px) and (max-width:991.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 2vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .slide {
+        width: 21vw;
+    }
+
+    .vision h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 3.6vw;
+        text-align: center;
+    }
+
+    .setting img {
+        width: 50px;
+        height: 50px;
+    }
+.TABS{
+    width:49% !important;
+    margin-right:5px;
+}
+.TAB{
+     width:49% !important;
+    margin-left:5px;
+}
+.black-img img {
+    position: absolute;
+    width: 99%;
+    height: 25%;
+    top: 75%;
+}
+  .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -45%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+
+
+@media (min-width:576px) and (max-width:767.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 2.5vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .hero-content {
+        justify-content: start;
+        text-align: center;
+    }
+
+    .slide {
+        width: 24vw;
+    }
+
+    .vision h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 3.5vw;
+        text-align: center;
+    }
+    .TABS{
+    width:48% !important;
+    margin-right:5px;
+}
+.TAB{
+     width:48% !important;
+    margin-left:5px;
+}
+  .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -43%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

@@ -1,0 +1,640 @@
+@media (min-width:992px) and (max-width:1200.92px) {
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -37%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .select img {
+        width: 35px;
+        height: auto;
+    }
+
+    .prompt img {
+        width: 70px;
+    }
+
+    .overlap-prompt {
+        border-radius: 15px;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 60px;
+        left: 10px;
+    }
+
+    .slide1 {
+        flex: 0 0 auto;
+        width: calc((100% - (5 * 8px)) / 10);
+    }
+
+    .slide-track {
+        display: flex;
+        gap: 10px;
+    }
+
+    .carousel {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        padding: 8px 0;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 122px;
+        left: 280px;
+    }
+
+    .pricing-card {
+        position: relative;
+        min-width: 297px;
+        padding: 25px 0px;
+        padding-bottom: 80px;
+        border-radius: 15px;
+        border: 1px solid #262626;
+        background-color: #26262620;
+        box-shadow: 0 0 32px transparent;
+
+    }
+
+    .circle-text {
+        width: 55vw !important;
+        font-family: hellix;
+        background-color: rgb(28, 28, 28);
+        color: white;
+        border-radius: 15px;
+        position: absolute;
+        top: 47%;
+    }
+
+    .unleash-text {
+        position: absolute;
+        top: -2%;
+        left: 7%;
+    }
+
+    .ICONS {
+        background-color: white;
+        border-radius: 25px;
+        padding: 5px 0px;
+        width: 36px !important;
+    }
+}
+
+
+
+@media (min-width:768px) and (max-width:991.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 2vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .slide {
+        width: 21vw;
+    }
+
+    .vision h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 3.6vw;
+        text-align: center;
+    }
+
+    .setting img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .TABS {
+        width: 49% !important;
+        margin-right: 5px;
+    }
+
+    .TAB {
+        width: 49% !important;
+        margin-left: 5px;
+    }
+
+    .black-img img {
+        position: absolute;
+        width: 99%;
+        height: 21%;
+        top: 79%;
+    }
+
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -45%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .vision2 h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    .mini-page {
+        width: 100% !important;
+    }
+
+    .overlap-prompt {
+        border-radius: 15px;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 75px;
+        left: 20px;
+    }
+
+    .slide1 {
+        flex: 0 0 auto;
+        width: calc((100% - (5 * 8px)) / 8);
+    }
+
+    .slide1 img {
+        width: 100%;
+        height: 120px;
+        border-radius: 10px;
+        display: block;
+        object-fit: cover;
+    }
+
+    .slide-track {
+        display: flex;
+        gap: 10px;
+    }
+
+    .carousel {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        padding: 6px 0;
+    }
+
+    .community h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    .prompt h6 {
+        color: white;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .apply-input-container {
+        position: absolute;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        background: white;
+        border-radius: 25px;
+        overflow: hidden;
+        background-color: #161d19;
+        width: 90%;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 70px;
+        left: 140px;
+    }
+
+    .discord h2 {
+        font-family: Myhellix;
+        font-size: 2.5vw;
+    }
+
+    .discord h6 {
+        font-family: hellix;
+        font-size: 13px;
+    }
+
+    .pricing-plans {
+        font-family: hellix;
+        gap: 32px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: start;
+        width: 100%;
+        padding: 64px;
+    }
+
+    .pricing-card {
+        position: relative;
+        min-width: 342px;
+        padding: 25px 0px;
+        padding-bottom: 80px;
+        border-radius: 15px;
+        border: 1px solid #262626;
+        background-color: #26262620;
+        box-shadow: 0 0 32px transparent;
+
+    }
+
+    .PRICE h1 {
+        font-family: Myhellix;
+        font-size: 3.6vw;
+        text-align: center;
+        color: white;
+    }
+
+    .inner-circle {
+        border-radius: 50%;
+        border: 2px solid rgb(28, 28, 28);
+        width: 72% !important;
+        aspect-ratio: 1 / 1;
+        display: flex;
+        flex-direction: column;
+        color: white;
+        font-family: hellix;
+    }
+
+    .inner-circle h2 {
+        text-align: center;
+        margin: 0;
+        font-size: 2.5vw;
+    }
+
+    .circle-text {
+        width: 55vw !important;
+        font-family: hellix;
+        background-color: rgb(28, 28, 28);
+        color: white;
+        border-radius: 15px;
+        position: absolute;
+        top: 50%;
+    }
+
+    .CIRCLE {
+        margin-bottom: 230px !important;
+    }
+
+    .custom-accordion .accordion-button {
+        border-radius: 0 !important;
+        font-family: hellix;
+        color: white;
+        font-size: 16px;
+        padding-right: 1rem;
+        padding-left: 0rem;
+    }
+
+    .custom-accordion-2 .accordion-button {
+        border-radius: 0 !important;
+        font-family: hellix;
+        color: white;
+        font-size: 16px;
+        padding-right: 2rem;
+        padding-left: 0rem;
+    }
+
+    .unleash-text h1 {
+        font-family: Myhellix;
+        font-size: 2.7vw;
+    }
+
+    .unleash-text {
+        position: absolute;
+        top: -1%;
+        left: 7%;
+    }
+
+    .unleash-text h6 {
+        font-family: hellix;
+        font-size: 13px;
+    }
+
+    .unleash img {
+        width: 100%;
+        height: auto;
+        border-radius: 25px;
+    }
+
+    .carousel-shadow img {
+        position: absolute;
+        top: -1%;
+        left: -1%;
+        width: 101.5%;
+        height: auto;
+    }
+
+}
+
+
+
+@media (min-width:576px) and (max-width:767.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 2.5vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .hero-content {
+        justify-content: start;
+        text-align: center;
+    }
+
+    .slide {
+        width: 24vw;
+    }
+
+    .vision h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 3.5vw;
+        text-align: center;
+    }
+
+    .TABS {
+        width: 48% !important;
+        margin-right: 5px;
+    }
+
+    .TAB {
+        width: 48% !important;
+        margin-left: 5px;
+    }
+
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -43%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .accordion-button span {
+        font-size: 11px;
+    }
+
+    .vision2 h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .mini-page {
+        width: 100% !important;
+    }
+
+    .overlap-prompt {
+        border-radius: 15px;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 58px;
+        left: 18px;
+    }
+
+    .slide1 {
+        flex: 0 0 auto;
+        width: calc((100% - (5 * 8px)) / 10);
+    }
+
+    .slide1 img {
+        width: 100%;
+        height: 100px;
+        border-radius: 10px;
+        display: block;
+        object-fit: cover;
+    }
+
+    .slide-track {
+        display: flex;
+        gap: 13px;
+    }
+
+    .carousel {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        padding: 8px 0;
+    }
+
+    .community h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    .community h6 {
+        font-size: 14px;
+        color: white;
+        text-align: justify;
+        text-align-last: center;
+        font-family: hellix;
+    }
+
+    .three-crousels {
+        margin-top: 3%;
+    }
+
+    .prompt h6 {
+        color: white;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 140px;
+        left: 200px;
+    }
+
+    .poineers h1 {
+        font-size: 6vw;
+        font-family: Myhellix;
+        text-align: center;
+    }
+
+    .poineers h6 {
+        font-size: 14px;
+        margin: 30px 0px 10px 0px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+        width: 160px;
+    }
+
+    .Hero-button {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+ .pricing-card {
+        position: relative;
+        min-width: 300px;
+        padding: 25px 0px;
+        padding-bottom: 80px;
+        border-radius: 15px;
+        border: 1px solid #262626;
+        background-color: #26262620;
+        box-shadow: 0 0 32px transparent;
+
+    }
+    .pricing-plans {
+        font-family: hellix;
+        gap: 32px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        padding: 64px;
+    }
+
+    .PRICE h1 {
+        font-family: Myhellix;
+        font-size: 5.5vw;
+        text-align: center;
+        color: white;
+    }
+
+    .circle-text img {
+        width: 26%;
+        height: auto;
+        position: absolute;
+        top: -85px;
+        left: 39%;
+    }
+
+
+    .circle-text {
+        width: 55vw !important;
+        font-family: hellix;
+        background-color: rgb(28, 28, 28);
+        color: white;
+        border-radius: 15px;
+        position: absolute;
+        top: 43%;
+    }
+
+    .CIRCLE {
+        margin-bottom: 230px !important;
+    }
+
+    .Question h1 {
+        font-size: 3.4vw;
+        color: white;
+    }
+
+    .Question h6 {
+        color: #7e7c7c;
+        font-size: 12px;
+    }
+
+    .custom-accordion .accordion-button {
+        background-color: black;
+        color: white;
+        box-shadow: none;
+        border: none;
+        font-family: hellix;
+        font-size: 13px;
+        padding-right: 1rem;
+        padding-left: 0rem;
+    }
+
+    .custom-accordion .accordion-body {
+        background-color: black;
+        color: white;
+        font-family: hellix;
+        font-size: 12px;
+    }
+
+    .custom-accordion-2 .accordion-button {
+        border-radius: 0 !important;
+        font-family: hellix;
+        color: white;
+        font-size: 13px;
+        padding-right: 2rem;
+        padding-left: 0rem;
+    }
+
+    .unleash-text {
+        position: absolute;
+        top: -2%;
+        left: 7%;
+    }
+
+    .unleash img {
+        width: 100%;
+        height: 290px;
+        border-radius: 25px;
+        margin: 0px auto;
+    }
+
+    .carousel-shadow img {
+        position: absolute;
+        top: -1%;
+        left: -1%;
+        width: 100%;
+        height: 295px;
+    }
+}

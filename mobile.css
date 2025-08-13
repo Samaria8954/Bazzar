@@ -1,0 +1,607 @@
+@media (min-width:320px) and (max-width:575.92px) {
+    .heroSection h1 {
+        font-family: Myhellix;
+        font-size: 6vw;
+    }
+
+    .hero-content {
+        justify-content: start;
+        text-align: center;
+    }
+
+    .vision h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 4.8vw;
+        text-align: center;
+    }
+
+    .black-img img {
+        position: absolute;
+        width: 100%;
+        height: 14%;
+        top: 86%;
+    }
+
+
+
+    .launch {
+        width: 165px;
+        align-content: center;
+        justify-content: center;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-size: 15px;
+        padding: 7px 5px 7px 3px;
+    }
+
+    .vision2 h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 7vw;
+        text-align: center;
+    }
+
+    .mini-page {
+        width: 92% !important;
+    }
+
+    .overlap-prompt {
+        display: none;
+    }
+
+    .overlap-prompt2 {
+        display: flex;
+        border-radius: 15px;
+    }
+
+    .slide-track {
+        display: flex;
+        gap: 12px;
+    }
+
+    .carousel {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    .community h6 {
+        font-size: 13px;
+        color: white;
+        text-align: justify;
+        text-align-last: center;
+        font-family: hellix;
+    }
+
+    .prompt h6 {
+        color: white;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .Hero-button {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    .PRICE h1 {
+        font-family: Myhellix;
+        font-size: 6.5vw;
+        text-align: center;
+        color: white;
+    }
+
+    .PRICE h6 {
+        font-family: hellix;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+        color: white;
+    }
+
+    .circle-text {
+        width: 55vw !important;
+        font-family: hellix;
+        background-color: rgb(28, 28, 28);
+        color: white;
+        border-radius: 15px;
+        position: absolute;
+        top: 50%;
+    }
+
+    .ans {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .unleash img {
+        width: 100%;
+        height: 290px;
+        border-radius: 25px;
+        margin: 0px auto;
+    }
+
+    .carousel-shadow img {
+        position: absolute;
+        top: -1%;
+        left: -1%;
+        width: 100%;
+        height: 295px;
+    }
+
+    .unleash-text {
+        position: absolute;
+        top: -2%;
+        left: 12%;
+    }
+
+    .unleash-text h1 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .unleash-text h6 {
+        font-family: hellix;
+        font-size: 12px;
+    }
+
+    .custom-accordion-2 .accordion-button {
+        border-radius: 0 !important;
+        font-family: hellix;
+        color: white;
+        font-size: 13px;
+        padding-right: 2rem;
+        padding-left: 0rem;
+    }
+
+    .custom-accordion .accordion-button {
+        background-color: black;
+        color: white;
+        box-shadow: none;
+        border: none;
+        font-family: hellix;
+        font-size: 13px;
+        padding-right: 1rem;
+        padding-left: 0rem;
+    }
+    
+}
+
+@media (min-width:320px) and (max-width:479.92px) {
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 3.8vw;
+        margin-bottom: 15px;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+    }
+
+
+    .hero-button {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .slide {
+        width: 33vw;
+    }
+
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -41%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .icon-btn img {
+        width: 30px;
+        height: auto;
+    }
+
+    .accordion-button span {
+        font-size: 14px;
+    }
+
+    .second {
+        border-radius: 15px;
+        width: 100%;
+        height: 720px;
+    }
+
+    .slide1 {
+        flex: 0 0 auto;
+        width: calc((100% - (5 * 8px)) / 6);
+    }
+
+    .slide1 img {
+        width: 100%;
+        height: 70px;
+        border-radius: 10px;
+        display: block;
+        object-fit: cover;
+    }
+
+    .community h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .three-crousels {
+        margin-top: 2%;
+    }
+
+    .prompt img {
+        width: 70px;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 140px;
+        left: 200px;
+    }
+
+    .poineers h1 {
+        font-size: 7vw;
+        font-family: Myhellix;
+        text-align: center;
+    }
+
+    .poineers h6 {
+        font-size: 13px;
+        margin: 30px 0px 10px 0px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+        width: 160px;
+    }
+
+    .apply-input-container {
+        position: absolute;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        background: white;
+        border-radius: 25px;
+        overflow: hidden;
+        background-color: #161d19;
+        width: 95%;
+    }
+
+    .apply-input-container input {
+        border: none;
+        padding: 11px 0px 11px 10px;
+        outline: none;
+        font-size: 12px;
+        color: #828282;
+        background-color: #161d19;
+    }
+
+    .apply-input-container button {
+        background: #30D696;
+        border: none;
+        padding: 9px 15px;
+        color: white;
+        border-radius: 25px;
+        font-size: 12px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 25%;
+        left: 22%;
+    }
+
+    .discord h2 {
+        font-family: Myhellix;
+        font-size: 4.8vw;
+    }
+
+    .discord h6 {
+        font-family: hellix;
+        font-size: 12px;
+    }
+
+    .discord img {
+        width: 50px;
+        height: auto;
+    }
+ .pricing-plans {
+        font-family: hellix;
+        gap: 32px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        padding: 64px;
+    }
+    .pricing-card {
+        position: relative;
+        min-width: 275px;
+        padding: 25px 0px;
+        padding-bottom: 80px;
+        border-radius: 15px;
+        border: 1px solid #262626;
+        background-color: #26262620;
+        box-shadow: 0 0 32px transparent;
+    }
+
+    .circle-text img {
+        width: 30%;
+        height: auto;
+        position: absolute;
+        top: -40px;
+        left: 36%;
+    }
+
+    .circle-text h5 {
+        font-size: 14px;
+        text-align: center;
+        color: rgb(177, 176, 176);
+    }
+
+    .H62 {
+        font-size: 11px !important;
+        text-align: center;
+        color: rgb(128, 128, 128);
+    }
+
+
+    .CIRCLE {
+        margin-bottom: 340px !important;
+    }
+
+    .Question h1 {
+        font-size: 6.5vw;
+        color: white;
+    }
+
+    .Question h6 {
+        color: #7e7c7c;
+        font-size: 12px;
+    }
+
+
+
+    .toggle-icon {
+        margin-left: 15px;
+        font-weight: bold;
+        font-size: 1.3rem !important;
+        transition: transform 0.2s ease;
+        line-height: 1;
+    }
+
+    .accordion-icon-2::before {
+        content: '+';
+        position: absolute;
+        right: 10px;
+        margin-left: 15px !important;
+        font-size: 1.3rem !important;
+        transition: transform 0.2s ease;
+        line-height: 1;
+
+    }
+
+    .footer2 a {
+        text-decoration: none;
+        color: rgb(154, 152, 152);
+        font-family: hellix;
+        margin-left: 15px;
+    }
+
+}
+
+
+
+@media (min-width:480px) and (max-width:575.92px) {
+    .heroSection h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 3.3vw;
+    }
+
+    .intro h6 {
+        font-family: hellix;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-content h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+    }
+
+
+    .hero-button {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .slide {
+        width: 30vw;
+    }
+
+    .image-buttons {
+        position: absolute;
+        top: 20px;
+        right: -43%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .accordion-button span {
+        font-size: 14px;
+    }
+
+    .second {
+        border-radius: 15px;
+        width: 100%;
+        height: 730px;
+    }
+
+    .slide1 {
+        flex: 0 0 auto;
+        width: calc((100% - (5 * 8px)) / 8);
+    }
+
+    .slide1 img {
+        width: 100%;
+        height: 70px;
+        border-radius: 10px;
+        display: block;
+        object-fit: cover;
+    }
+
+    .community h1 {
+        font-family: Myhellix;
+        color: white;
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 140px;
+        left: 200px;
+    }
+
+    .poineers h1 {
+        font-size: 6vw;
+        font-family: Myhellix;
+        text-align: center;
+    }
+
+    .poineers h6 {
+        font-size: 14px;
+        margin: 30px 0px 10px 0px;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    .hero-2 {
+        display: flex;
+        background-color: #30D696;
+        border: 1px solid #30D696;
+        border-radius: 30px;
+        font-family: hellix;
+        padding: 2px 0px 1px 4px;
+        width: 160px;
+    }
+ .pricing-plans {
+        font-family: hellix;
+        gap: 32px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        padding: 64px;
+    }
+    .poineers-overlap {
+        position: absolute;
+        border-radius: 10px;
+        top: 35%;
+        left: 22%;
+    }
+
+    .discord h2 {
+        font-family: Myhellix;
+        font-size: 5vw;
+    }
+
+    .discord h6 {
+        font-family: hellix;
+        font-size: 13px;
+    }
+
+    .circle-text img {
+        width: 30%;
+        height: auto;
+        position: absolute;
+        top: -91px;
+        left: 36%;
+    }
+
+    .circle-text h5 {
+        font-size: 14px;
+        text-align: center;
+        color: rgb(177, 176, 176);
+    }
+
+    .H62 {
+        font-size: 11px !important;
+        text-align: center;
+        color: rgb(128, 128, 128);
+    }
+
+    .CIRCLE {
+        margin-bottom: 200px !important;
+    }
+
+}
